@@ -6,7 +6,7 @@
    2. test2.2
 
 >bla bla
->bla bla
+><del>bla</del> bla
 
 def foo():
     if not bar:
